@@ -1,4 +1,5 @@
 import React from 'react'
+import './style/weather.scss'
 
 const api = {
   key: 'c748e4424974c74ae32808a81e600eb8',
@@ -9,7 +10,7 @@ function WeatherFetching() {
   return (
     <div>
       <main>
-        <div className='.search-box'>
+        <div className='search-box'>
           <input type='text' className='search-bar' placeholder='Search...' />
         </div>
       </main>
