@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Clem-Fauchet/weather-app-test.git/static/css/main.59eabed0.chunk.css",
+    "main.js": "/Clem-Fauchet/weather-app-test.git/static/js/main.61e9273b.chunk.js",
+    "main.js.map": "/Clem-Fauchet/weather-app-test.git/static/js/main.61e9273b.chunk.js.map",
+    "runtime-main.js": "/Clem-Fauchet/weather-app-test.git/static/js/runtime-main.285d7725.js",
+    "runtime-main.js.map": "/Clem-Fauchet/weather-app-test.git/static/js/runtime-main.285d7725.js.map",
+    "static/js/2.39f7daf3.chunk.js": "/Clem-Fauchet/weather-app-test.git/static/js/2.39f7daf3.chunk.js",
+    "static/js/2.39f7daf3.chunk.js.map": "/Clem-Fauchet/weather-app-test.git/static/js/2.39f7daf3.chunk.js.map",
+    "index.html": "/Clem-Fauchet/weather-app-test.git/index.html",
+    "precache-manifest.4aa9ca8c18a8c017d4840b380957f068.js": "/Clem-Fauchet/weather-app-test.git/precache-manifest.4aa9ca8c18a8c017d4840b380957f068.js",
+    "service-worker.js": "/Clem-Fauchet/weather-app-test.git/service-worker.js",
+    "static/css/main.59eabed0.chunk.css.map": "/Clem-Fauchet/weather-app-test.git/static/css/main.59eabed0.chunk.css.map",
+    "static/js/2.39f7daf3.chunk.js.LICENSE": "/Clem-Fauchet/weather-app-test.git/static/js/2.39f7daf3.chunk.js.LICENSE",
+    "static/media/App.scss": "/Clem-Fauchet/weather-app-test.git/static/media/warm-bg.635ed87d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.285d7725.js",
+    "static/js/2.39f7daf3.chunk.js",
+    "static/css/main.59eabed0.chunk.css",
+    "static/js/main.61e9273b.chunk.js"
+  ]
+}
